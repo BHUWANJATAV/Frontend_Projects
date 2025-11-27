@@ -1,0 +1,5 @@
+﻿# Ignore nested git backups
+
+/*.git.backup
+**/.git.backup
+
