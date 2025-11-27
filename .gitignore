@@ -1,9 +1,0 @@
-﻿# Ignore nested git backups
-
-/*.git.backup
-**/.git.backup
-
-
-# ignore nested git backups
-nested_git_backups/
-
